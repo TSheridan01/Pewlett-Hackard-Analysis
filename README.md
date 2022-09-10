@@ -16,7 +16,7 @@
   
   
   
-  * There are 56,859 employees who are eligible for mentorship.
+  * There are 56,859 employees who are eligible for mentorship, due to this many long term employees we can deduce that PW is a fantastic place for employee satisfaction; and that they will need to preapre to a large scale retirements in the near term and have a hiring plan in place to replace all this talent.
   
   
   
