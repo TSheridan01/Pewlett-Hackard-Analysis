@@ -21,6 +21,8 @@
   
   ## Summary 
   
+  Our data shows that 8,047 Senior Staff and 29,415 Senior Engineers currently work at Pewlett Hackard which accounts for 41% of the firm. 
   
  
+  ![image](https://github.com/TSheridan01/Pewlett-Hackard-Analysis/blob/a971e1f42bf186180b1736874ffbc9ab3f2bbb88/TitlesScreenShot.png)  
   
